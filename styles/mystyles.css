@@ -1,0 +1,31 @@
+ul, ol{
+    padding: 10px 0 15px 4rem;
+}
+ul h3, ol h3{
+    font-weight: 600;
+}
+ul li{
+    font-family: Open Sans, Lora;
+    font-weight: 500;
+}
+.post-preview a{
+    text-decoration: underline;
+    color: darkblue;
+}
+.skills li{
+    margin-bottom: 5px;
+}
+#interestcarousel{
+    margin: 30px 0 40px;
+}
+#interestcarousel h5 , #interestcarousel p{
+    text-shadow: 1px 1px 20px black;
+}
+.wfp{
+    color: #007dbc;
+    font-size: 22px;
+}
+video {
+    width: 100%;
+    height: auto;
+  }
